@@ -24,7 +24,6 @@ footer-links:
   github: loso84
   instagram: glatinmusic
   linkedin: tesis
-  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: glatinmusic
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -32,14 +31,14 @@ footer-links:
   
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: loso84
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://sites.google.com/unal.edu.co/gachamorrom
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
